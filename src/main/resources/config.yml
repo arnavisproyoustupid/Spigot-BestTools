@@ -71,7 +71,7 @@ favorite-slot: 8
 
 # When set to false, /besttools and /refill will only work in survival game mode
 # When set to true, it works in survival and adventure game mode
-allow-in-adventure-mode: false
+allow-in-adventure-mode: true
 
 # When enabled, BestTools will not attempt to switch any tools when the player is
 # holding a sword, crossbow, bow or trident
